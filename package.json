@@ -1,0 +1,26 @@
+{
+  "name": "postgress_node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg-promise": "^10.8.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MykytaBAshenko/postgress_node_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MykytaBAshenko/postgress_node_test/issues"
+  },
+  "homepage": "https://github.com/MykytaBAshenko/postgress_node_test#readme"
+}
